@@ -1,0 +1,25 @@
+{
+  "name": "purescript-halogen-sprite-editor",
+  "keywords": [
+    "sprite",
+    "graphics",
+    "editor",
+    "8-bit",
+    "c64"
+  ],
+  "authors": [
+    "Erik Post <erik@shinsetsu.nl>"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output",
+    "dist"
+  ],
+  "dependencies": {
+    "purescript-console": "^3.0.0",
+    "purescript-halogen": "^2.0.0"
+  }
+}

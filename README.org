@@ -1,0 +1,7 @@
+#+title:Sprite Editor
+
+Sprite editor made with [[https://github.com/slamdata/purescript-halogen][purescript-halogen]], intended for creating and editing sprite graphics for Commodore 64 and the like.
+
+[[file:./ollie.png]]
+
+(c) 2018 Erik Post
